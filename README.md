@@ -1,7 +1,7 @@
 # MySQL-Projects
 This space includes various MySQL Projects that I've worked on.
 
-##Included Concepts 
+# Included Concepts 
 -- SELECT Statments
 -- JOINS
 -- AGGREGATE Functions
